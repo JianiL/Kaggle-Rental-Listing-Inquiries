@@ -34,7 +34,6 @@ test_df["num_features"] = test_df["features"].apply(len)
 train_df["num_description_words"] = train_df["description"].apply(lambda x: len(x.split(" ")))
 test_df["num_description_words"] = test_df["description"].apply(lambda x: len(x.split(" ")))
 
-
 features_to_use=["bathrooms", "bedrooms", "latitude", "longitude", "price","price_t","num_photos", "num_features", "num_description_words","listing_id"]
 
 
