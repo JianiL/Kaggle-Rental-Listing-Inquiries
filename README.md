@@ -1,3 +1,3 @@
 # Kaggle Project
 
-This is a kaggle compitation I paticipated, I am currently ranking Top 19%
+This is a kaggle compitation I paticipated, I am currently ranking Top 15%
